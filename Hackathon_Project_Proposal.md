@@ -28,4 +28,4 @@
 
 #### Team Coordinator GitHub Username: `Dylan Mather: matherdy`
 
-#### Team Members `'Layth Zubaidi: lhassanz'`
+#### Team Members `'Layth Zubaidi: lhassanz'` Andrea Yacopi: AndreaY-BDA
